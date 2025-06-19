@@ -1,10 +1,15 @@
 # Apuntes Angular
 
-## Conceptos basicos.
+## Conceptos basicos Nodejs
 nvm : node version manager (V.20.11)
 npm : node package manager, gestor de paquetes
 Atención: node_modules se borra si queremos compartir, regenerar con : npm install 
 
+## Instalaciṕn Angular:
+De manera global para el sistema.
+npm install -g @angular/cli
+
+Explorar npx para ejecutar si instalación ¿?
 
 ## Comandos
 
