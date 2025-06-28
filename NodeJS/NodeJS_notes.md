@@ -8,6 +8,7 @@ Per instal·lar una versió:
 nvm install --lts=Iron   
 Actualment Iron es la versio 20.19.2
 nvm use [<version>] : Utilitza la versio que l'hi diguis.
+nvm alias default 20.19.2
 
 Preparación del entorno del proyecto de NodeJS:
 npm: node package manager
