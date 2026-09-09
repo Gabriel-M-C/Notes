@@ -1,7 +1,15 @@
 NodeJS:
 "Es un motor de codigo javascript que permite ejecutar codigo en cualquier máquina"
 
-Preparación del entorno del proyecto:
+nvm : node version manager
+nvm ls : llista les versions de node instalades
+nvm ls-remote : llista les versions de node.js al nuvol.
+Per instal·lar una versió:
+nvm install --lts=Iron   
+Actualment Iron es la versio 20.19.2
+nvm use [<version>] : Utilitza la versio que l'hi diguis.
+
+Preparación del entorno del proyecto de NodeJS:
 npm: node package manager
 
 npm init : generamos el fichero package.json
