@@ -72,7 +72,7 @@ Añadir ficheros del proyecto, asegurarse que el archivo  *__.gitignore__* es co
 git add . #atentos a archivos que deberian esta en .gitignore
 git commit -m "Primer commit"
 gh auth login
-gh repo create nombre-del-repo --source=. --remote=origin --description "Descripcion del repo"
+gh repo create nombre-repo --source=. --remote origin --private --description "Descripcion del repo"
 git push -u origin main
 
 ```
