@@ -41,14 +41,14 @@ Pruebas de aceptación. usuario
 
 ## Docker.
 ### Glosario:
-- DockerFile: Plantilla para crear la imagenes
-- Imagen : Un paquete inmutable que posee todos lo necesario para ejecutar la aplicación. A partir de aquí puedes generar contenedores.
+- DockerFile: Plantilla para crear la imagenes\
+- Imagen : Un paquete inmutable que posee todos lo necesario para ejecutar la aplicación. A partir de aquí puedes generar contenedores.\
 - Contenedor: Una instancia de una imagen que se ejecuta de manera aislada.
-- Docker Engine: La tecnologia central de Docker que permite la creación  y ejecución de contenedores.
-- Docker Hub: registor publico central Docker ...
-- Volumen: Mecanismo para persistir datos generados/o usados por contenedores Docker. Los volumnes permiten que los datos persistan más allà de ciclo de vida.
-- Docker Compose: Herramienta para definir y ejecutar aplicaciones Docker multicontenedor. Un docker con MySQL, otro con Node.js, otro ...
-- Docker Desktop: Aplicación de escritorio para gestionar imagenes y contenedores de Docker.
+- Docker Engine: La tecnologia central de Docker que permite la creación  y ejecución de contenedores.\
+- Docker Hub: registor publico central Docker ...\
+- Volumen: Mecanismo para persistir datos generados/o usados por contenedores Docker. Los volumnes permiten que los datos persistan más allà de ciclo de vida.\
+- Docker Compose: Herramienta para definir y ejecutar aplicaciones Docker multicontenedor. Un docker con MySQL, otro con Node.js, otro ...\
+- Docker Desktop: Aplicación de escritorio para gestionar imagenes y contenedores de Docker.\
 
 ### Instalación en Linux:
 https://docs.docker.com/desktop/install/linux-install/
